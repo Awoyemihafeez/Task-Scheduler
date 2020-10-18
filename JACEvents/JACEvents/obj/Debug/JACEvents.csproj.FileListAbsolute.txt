@@ -1,0 +1,100 @@
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\JACEvents.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\JACEvents.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\JACEvents.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Helpers.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Mvc.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Webpages.Deployment.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Webpages.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Webpages.Razor.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Webpages.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Webpages.Deployment.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Webpages.Razor.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Helpers.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\bin\System.Web.Mvc.xml
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\obj\Debug\JACEvents.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\obj\Debug\JACEvents.dll
+c:\users\administrator\documents\visual studio 2015\Projects\JACEvents\JACEvents\obj\Debug\JACEvents.pdb
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\ApplicationInsights.config
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\JACEvents.dll.config
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\JACEvents.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\JACEvents.pdb
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Webpages.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Webpages.Razor.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Webpages.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Webpages.Razor.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\obj\Debug\JACEvents.dll
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\obj\Debug\JACEvents.pdb
+C:\Users\Administrator\Desktop\JACEvents\JACEvents\obj\Debug\JACEvents.csprojResolveAssemblyReference.cache
